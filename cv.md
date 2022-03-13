@@ -47,7 +47,7 @@ return 'general'
 * CodeBasic courses
 * Learn javascript courses
 
-----------------------------------------
+---------------------------------------
 
 #### **Launguages:**
 * **Englsh-** ELEMENTARY A1+,A2 (according to the online test https://puzzle-english.com)
