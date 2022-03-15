@@ -44,13 +44,13 @@ return 'general'
 
 #### **Courses:**
 * RS Schools Course «JavaScript/Front-end. Stage 0»
-* CodeBasic courses
+* CodeBasics courses
 * Learn javascript courses
 
 ---------------------------------------
 
 #### **Launguages:**
-* **Englsh-** ELEMENTARY A1+,A2 (according to the online test https://puzzle-english.com)
+* **Englsh-** Elementary A1+,A2 (according to the online test https://puzzle-english.com)
 * **Russian-** Native
 * **Belarussian-** Native
 * **Ukrainian-** Intermediate
